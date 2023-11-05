@@ -1,4 +1,4 @@
-import { CardActionArea, Grid, Card, CardContent, CardMedia, Typography } from '@mui/material';
+import { Grid, Card, CardContent, CardMedia, Typography } from '@mui/material';
 import React, { useEffect, useState } from 'react';
 import Pokebola from '../assets/images/pokebola.png';
 import api from '../services/api';
